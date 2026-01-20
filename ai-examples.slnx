@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CustomerSupportWorkflow/CustomerSupportWorkflow.csproj" />
+  <Project Path="SimpleAgentWithTools/SimpleAgentWithTools.csproj" />
+  <Project Path="WorkflowSequentialPipeline/WorkflowSequentialPipeline.csproj" />
+</Solution>
