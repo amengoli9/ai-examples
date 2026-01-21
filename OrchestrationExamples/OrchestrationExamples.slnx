@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Concurrent/Concurrent.csproj" />
+  <Project Path="GroupChat/GroupChat.csproj" />
+  <Project Path="Handoffs/Handoffs.csproj" />
+  <Project Path="Sequential/Sequential.csproj" />
+</Solution>
