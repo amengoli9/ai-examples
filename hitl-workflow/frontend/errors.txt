@@ -1,0 +1,297 @@
+⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ GET / 200 in 566ms
+ POST /api/copilotkit 200 in 7ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 200 in 92ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 200 in 72ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 200 in 146ms
+ POST /api/copilotkit 404 in 146ms
+ POST /api/copilotkit 404 in 146ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 404 in 143ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 404 in 137ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 404 in 133ms
+ POST /api/copilotkit 404 in 134ms
+ POST /api/copilotkit 404 in 134ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 404 in 133ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 404 in 132ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ POST /api/copilotkit 404 in 131ms
+ POST /api/copilotkit 404 in 131ms
+ POST /api/copilotkit 404 in 131ms
+[CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection: [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+ ⨯ unhandledRejection:  [CopilotApiDiscoveryError: No default agent provided. Please provide a default agent in the runtime config.] {
+  path: undefined,
+  locations: undefined,
+  extensions: [Object],
+  code: 'MISUSE',
+  statusCode: 400,
+  severity: 'warning',
+  visibility: 'dev_only'
+}
+^C
